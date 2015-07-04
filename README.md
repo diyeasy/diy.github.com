@@ -1,2 +1,2 @@
-# diy.github.com
+# diyeasy.github.com
 DIY Easy Projects
